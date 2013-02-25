@@ -15,5 +15,10 @@ Use like this:<br/>
     {user:"Test5Name5",name:"\u5434\u4e1c\u5f3a"}
     ];
     userAutoTips({id:'shareInfo'});
-    
+        
+Test
+        Test for this.
+
+Over
+
 Order by Kelvin.
