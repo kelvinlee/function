@@ -15,7 +15,7 @@
 
   
   Gtrack = function(){
-	  this.trackEvent = function(category, action, opt_label, opt_value, opt_noninteraction){ 
+	  this.tE = function(category, action, opt_label, opt_value, opt_noninteraction){ 
 		  _gaq.push(['_trackEvent', category, action, opt_label]);
 	  };
   };
