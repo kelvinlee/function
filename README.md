@@ -16,5 +16,9 @@ Use like this:<br/>
     {user:"Test5Name5",name:"\u5434\u4e1c\u5f3a"}
     ];
     userAutoTips({id:'shareInfo'});
-
+### 多行文本框  
+    这是一个有多行的文本框
+    你可以写入代码等,每行文字只要输入两个Tab再输入文字即可
+    这里你可以输入一段代码
+    
 Order by Kelvin.
